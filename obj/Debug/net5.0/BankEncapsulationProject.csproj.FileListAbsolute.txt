@@ -1,0 +1,15 @@
+/Users/seanmorgan/repos/BankEncapsulationProject/BankEncapsulationProject/bin/Debug/net5.0/BankEncapsulationProject.deps.json
+/Users/seanmorgan/repos/BankEncapsulationProject/BankEncapsulationProject/bin/Debug/net5.0/BankEncapsulationProject.runtimeconfig.json
+/Users/seanmorgan/repos/BankEncapsulationProject/BankEncapsulationProject/bin/Debug/net5.0/BankEncapsulationProject.runtimeconfig.dev.json
+/Users/seanmorgan/repos/BankEncapsulationProject/BankEncapsulationProject/bin/Debug/net5.0/BankEncapsulationProject.dll
+/Users/seanmorgan/repos/BankEncapsulationProject/BankEncapsulationProject/bin/Debug/net5.0/ref/BankEncapsulationProject.dll
+/Users/seanmorgan/repos/BankEncapsulationProject/BankEncapsulationProject/bin/Debug/net5.0/BankEncapsulationProject.pdb
+/Users/seanmorgan/repos/BankEncapsulationProject/BankEncapsulationProject/obj/Debug/net5.0/BankEncapsulationProject.csproj.AssemblyReference.cache
+/Users/seanmorgan/repos/BankEncapsulationProject/BankEncapsulationProject/obj/Debug/net5.0/BankEncapsulationProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seanmorgan/repos/BankEncapsulationProject/BankEncapsulationProject/obj/Debug/net5.0/BankEncapsulationProject.AssemblyInfoInputs.cache
+/Users/seanmorgan/repos/BankEncapsulationProject/BankEncapsulationProject/obj/Debug/net5.0/BankEncapsulationProject.AssemblyInfo.cs
+/Users/seanmorgan/repos/BankEncapsulationProject/BankEncapsulationProject/obj/Debug/net5.0/BankEncapsulationProject.csproj.CoreCompileInputs.cache
+/Users/seanmorgan/repos/BankEncapsulationProject/BankEncapsulationProject/obj/Debug/net5.0/BankEncapsulationProject.dll
+/Users/seanmorgan/repos/BankEncapsulationProject/BankEncapsulationProject/obj/Debug/net5.0/ref/BankEncapsulationProject.dll
+/Users/seanmorgan/repos/BankEncapsulationProject/BankEncapsulationProject/obj/Debug/net5.0/BankEncapsulationProject.pdb
+/Users/seanmorgan/repos/BankEncapsulationProject/BankEncapsulationProject/obj/Debug/net5.0/BankEncapsulationProject.genruntimeconfig.cache
